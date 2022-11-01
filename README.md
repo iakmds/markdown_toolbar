@@ -1,3 +1,26 @@
+<p>
+  <a href="https://pub.dev/packages/markdown_toolbar" alt="Release">
+  <img src="https://img.shields.io/pub/v/markdown_toolbar?style=flat-square" /></a>
+
+  <a href="https://github.com/iakmds/librecamera/issues" alt="Issues">
+  <img src="https://img.shields.io/github/issues/iakmds/markdown_toolbar?color=dfb317&style=flat-square" /></a>
+
+  <a href="https://github.com/iakmds/librecamera/pulls" alt="Pull requests">
+  <img src="https://img.shields.io/github/issues-pr/iakmds/markdown_toolbar?style=flat-square" /></a>
+
+  <a href="https://github.com/iakmds/librecamera/contributors" alt="Contributors">
+  <img src="https://img.shields.io/github/contributors/iakmds/markdown_toolbar?style=flat-square" /></a>
+
+  <a href="https://github.com/iakmds/librecamera/network/members" alt="Forks">
+  <img src="https://img.shields.io/github/forks/iakmds/markdown_toolbar?style=flat-square" /></a>
+
+  <a href="https://github.com/iakmds/librecamera/stargazers" alt="Stars">
+  <img src="https://img.shields.io/github/stars/iakmds/markdown_toolbar?style=flat-square" /></a>
+
+  <a href="https://github.com/iakmds/librecamera/blob/master/LICENSE" alt="License">
+  <img src="https://img.shields.io/github/license/iakmds/markdown_toolbar?style=flat-square" /></a>
+</p>
+
 A customizable toolbar to enhance your experience of writing Markdown in Flutter apps.
 
 This plugin uses the TextField widget from Flutter (read more below). In the future, it may become independent from it to change any text, no matter where it's coming from.

@@ -40,18 +40,18 @@ Get it from [pub.dev](https://pub.dev/packages/markdown_toolbar)
 
 # Screenshots
 
-<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/preview01.gif" alt="Preview GIF" width="512">
+<img src="https://raw.githubusercontent.com/iakmds/markdown_toolbar/master/doc/assets/preview01.gif" alt="Preview GIF" width="512">
 
 ## Responsive wrapping and collapsable
 
-<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/horizontal01.png" alt="Horizontal toolbar" width="500">
-<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/horizontal02.png" alt="Horizontal toolbar collapsed" width="500">
+<img src="https://raw.githubusercontent.com/iakmds/markdown_toolbar/master/doc/assets/horizontal01.png" alt="Horizontal toolbar" width="500">
+<img src="https://raw.githubusercontent.com/iakmds/markdown_toolbar/master/doc/assets/horizontal02.png" alt="Horizontal toolbar collapsed" width="500">
 
 <br>
 
 <p float="left">
-<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/vertical01.png" alt="Vertical responsive toolbar" height="300">
-<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/vertical02.png" alt="Vertical responsive toolbar collapsed" height="300">
+<img src="https://raw.githubusercontent.com/iakmds/markdown_toolbar/master/doc/assets/vertical01.png" alt="Vertical responsive toolbar" height="300">
+<img src="https://raw.githubusercontent.com/iakmds/markdown_toolbar/master/doc/assets/vertical02.png" alt="Vertical responsive toolbar collapsed" height="300">
 </p>
 
 # Features

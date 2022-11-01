@@ -15,17 +15,17 @@ This plugin uses the TextField widget from Flutter (read more below). In the fut
 
 # Screenshots
 
-<img src="../assets/preview01.gif" alt="Test" width="512">
+<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/preview01.gif" alt="Test" width="512">
 
 ## Responsive wrapping and collapsable
 
-<img src="../assets/horizontal01.png" alt="Horizontal toolbar" width="500">
-<img src="../assets/horizontal02.png" alt="Horizontal toolbar collapsed" width="500">
+<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/horizontal01.png" alt="Horizontal toolbar" width="500">
+<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/horizontal02.png.png" alt="Horizontal toolbar collapsed" width="500">
 
 <br>
 
-<img src="../assets/vertical01.png" alt="Vertical responsive toolbar" height="300">
-<img src="../assets/vertical02.png" alt="Vertical responsive toolbar collapsed" height="300">
+<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/vertical01.png" alt="Vertical responsive toolbar" height="300">
+<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/vertical02.png" alt="Vertical responsive toolbar collapsed" height="300">
 
 # Features
 

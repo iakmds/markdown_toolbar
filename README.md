@@ -20,7 +20,7 @@ This plugin uses the TextField widget from Flutter (read more below). In the fut
 ## Responsive wrapping and collapsable
 
 <img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/horizontal01.png" alt="Horizontal toolbar" width="500">
-<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/horizontal02.png.png" alt="Horizontal toolbar collapsed" width="500">
+<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/horizontal02.png" alt="Horizontal toolbar collapsed" width="500">
 
 <br>
 

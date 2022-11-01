@@ -2,6 +2,8 @@ A customizable toolbar to enhance your experience of writing Markdown in Flutter
 
 This plugin uses the TextField widget from Flutter (read more below). In the future, it may become independent from it to change any text, no matter where it's coming from.
 
+Get it from [pub.dev](https://pub.dev/packages/markdown_toolbar)
+
 ## Table of Contents
 - [Screenshots](#screenshots)
 - [Features](#features)
@@ -15,7 +17,7 @@ This plugin uses the TextField widget from Flutter (read more below). In the fut
 
 # Screenshots
 
-<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/preview01.gif" alt="Test" width="512">
+<img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/preview01.gif" alt="Preview GIF" width="512">
 
 ## Responsive wrapping and collapsable
 

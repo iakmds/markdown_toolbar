@@ -24,8 +24,10 @@ This plugin uses the TextField widget from Flutter (read more below). In the fut
 
 <br>
 
+<p float="left">
 <img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/vertical01.png" alt="Vertical responsive toolbar" height="300">
 <img src="https://github.com/iakmds/markdown_toolbar/blob/master/doc/assets/vertical02.png" alt="Vertical responsive toolbar collapsed" height="300">
+</p>
 
 # Features
 

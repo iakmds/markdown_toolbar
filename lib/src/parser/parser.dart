@@ -427,8 +427,8 @@ class Format {
           baseOffset = selection.start + character!.length;
           extentOffset = selection.end + character!.length;
           if (newLine != null) {
-            newLine! ? baseOffset += 2 : null;
-            newLine! ? extentOffset += 2 : null;
+            baseOffset += 2;
+            extentOffset += 2;
           }
         }
         break;

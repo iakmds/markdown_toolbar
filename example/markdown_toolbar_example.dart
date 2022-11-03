@@ -66,7 +66,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 // hideCode: true,
                 // linkTooltip: 'Add a link',
               ),
-              //const SizedBox(height: 4.0),
               const Divider(),
               TextField(
                 controller: _controller,

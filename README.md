@@ -2,22 +2,22 @@
   <a href="https://pub.dev/packages/markdown_toolbar" alt="Release">
   <img src="https://img.shields.io/pub/v/markdown_toolbar?style=flat-square" /></a>
 
-  <a href="https://github.com/iakmds/librecamera/issues" alt="Issues">
+  <a href="https://github.com/iakmds/markdown_toolbar/issues" alt="Issues">
   <img src="https://img.shields.io/github/issues/iakmds/markdown_toolbar?color=dfb317&style=flat-square" /></a>
 
-  <a href="https://github.com/iakmds/librecamera/pulls" alt="Pull requests">
+  <a href="https://github.com/iakmds/markdown_toolbar/pulls" alt="Pull requests">
   <img src="https://img.shields.io/github/issues-pr/iakmds/markdown_toolbar?style=flat-square" /></a>
 
-  <a href="https://github.com/iakmds/librecamera/contributors" alt="Contributors">
+  <a href="https://github.com/iakmds/markdown_toolbar/contributors" alt="Contributors">
   <img src="https://img.shields.io/github/contributors/iakmds/markdown_toolbar?style=flat-square" /></a>
 
-  <a href="https://github.com/iakmds/librecamera/network/members" alt="Forks">
+  <a href="https://github.com/iakmds/markdown_toolbar/network/members" alt="Forks">
   <img src="https://img.shields.io/github/forks/iakmds/markdown_toolbar?style=flat-square" /></a>
 
-  <a href="https://github.com/iakmds/librecamera/stargazers" alt="Stars">
+  <a href="https://github.com/iakmds/markdown_toolbar/stargazers" alt="Stars">
   <img src="https://img.shields.io/github/stars/iakmds/markdown_toolbar?style=flat-square" /></a>
 
-  <a href="https://github.com/iakmds/librecamera/blob/master/LICENSE" alt="License">
+  <a href="https://github.com/iakmds/markdown_toolbar/blob/master/LICENSE" alt="License">
   <img src="https://img.shields.io/github/license/iakmds/markdown_toolbar?style=flat-square" /></a>
 </p>
 

@@ -25,8 +25,6 @@ A customizable toolbar to enhance your experience of writing Markdown in Flutter
 
 This plugin uses the TextField widget from Flutter (read more below). In the future, it may become independent from it to change any text, no matter where it's coming from.
 
-Get it from [pub.dev](https://pub.dev/packages/markdown_toolbar)
-
 ## Table of Contents
 - [Screenshots](#screenshots)
 - [Features](#features)
@@ -149,9 +147,12 @@ Column(children: <Widget>[
 For a complete example, check out [example.dart](https://github.com/iakmds/markdown_toolbar/blob/master/example/markdown_toolbar_example.dart)
 
 # Roadmap
+- RTL support
+- More customization (Gaps, Aligning, Button style, etc.)
+  - spacing, runSpacing
+  - Collapse button: face left/right
 - Ability to rearrange the buttons through a List (and thus remove the need for hideButton booleans, as you can simply not include the unwanted buttons inside the list)
 - Custom character support for all buttons to change the added Markdown characters on click
 - Custom button support
 - Custom function support when clicking a button (Useful for integrating things like a File Picker when inserting an Image instead of having to manually type out the path)
-- More customization (Gaps, Aligning, Button style, etc.)
 - Add Emoji button
